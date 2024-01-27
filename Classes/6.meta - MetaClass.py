@@ -17,7 +17,3 @@ class Math(metaclass=Meta):
     
 print(Math.add(1, 2))
 print(Math.subtract(2, 1))
-
-
-
-
